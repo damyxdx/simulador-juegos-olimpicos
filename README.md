@@ -13,17 +13,17 @@ Instrucciones de instalación
 Clona este repositorio o descarga los archivos.
 
 bash
-Copiar código
+
 git clone https://github.com/tu_usuario/simulador-juegos-olimpicos.git
 Navega a la carpeta del proyecto.
 
 bash
-Copiar código
+
 cd simulador-juegos-olimpicos
 Ejecuta el archivo Python principal para iniciar la aplicación.
 
 bash
-Copiar código
+
 python simulador_olimpico.py
 Uso
 Registro de Eventos: Ingresa el nombre del evento en el campo de texto y presiona el botón "Agregar Evento".
